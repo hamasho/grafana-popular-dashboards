@@ -4,7 +4,6 @@
 
 ## Top 100 List
 
-```
 1: [Kubernetes cluster monitoring (via Prometheus) (36340 downloads)](https://grafana.com/dashboards/1621)
 2: [Prometheus Stats (24533 downloads)](https://grafana.com/dashboards/2)
 3: [Node Exporter Full (20667 downloads)](https://grafana.com/dashboards/1860)
@@ -105,4 +104,3 @@
 98: [Apache (1756 downloads)](https://grafana.com/dashboards/3894)
 99: [Alerts - Server Status (1755 downloads)](https://grafana.com/dashboards/5990)
 100: [InfluxDB Docker (1753 downloads)](https://grafana.com/dashboards/1150)
-```
